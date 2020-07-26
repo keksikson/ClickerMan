@@ -1,0 +1,13 @@
+{
+"companyName": "Firki game",
+"productName": "ClickerApp",
+"dataUrl": "for_vk.data.unityweb",
+"asmCodeUrl": "for_vk.asm.code.unityweb",
+"asmMemoryUrl": "for_vk.asm.memory.unityweb",
+"asmFrameworkUrl": "for_vk.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
